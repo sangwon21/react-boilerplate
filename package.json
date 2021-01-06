@@ -15,7 +15,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@types/react-redux": "^7.1.9",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "css-loader": "^3.5.3",
     "dotenv-webpack": "^1.8.0",
     "emotion-theming": "^10.0.27",
