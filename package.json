@@ -59,7 +59,7 @@
     "html-webpack-plugin": "^4.3.0",
     "jest": "^26.0.1",
     "react-docgen-typescript-loader": "^3.7.2",
-    "storybook": "^5.3.18",
+    "storybook": "^6.5.16",
     "ts-jest": "^25.5.0",
     "ts-loader": "^7.0.2",
     "typescript": "^3.8.3",
